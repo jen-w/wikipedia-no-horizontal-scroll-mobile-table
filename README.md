@@ -1,0 +1,1 @@
+# wikipedia-no-horizontal-scroll-mobile-table
